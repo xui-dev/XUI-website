@@ -1,0 +1,242 @@
+{
+  "navbar": {
+    "brand": "XUI",
+    "links": {
+      "components": "Components",
+      "templates": "3D web templates",
+      "docs": "Docs"
+    },
+    "signIn": "Sign In",
+    "lang": {
+      "en": "EN",
+      "ar": "AR"
+    }
+  },
+  "hero": {
+    "tagline": "Next-Gen UI Library",
+    "titleLine1": "components for",
+    "titleLine2": "creative developers",
+    "subtitle": "Highly customizable animated components & backgrounds that drop into your project and instantly make it stand out",
+    "browseBtn": "Browse Components",
+    "githubBtn": "Star on GitHub",
+    "starCount": "14.8k"
+  },
+  "footer": {
+    "tagline": "Highly customizable animated UI components for creative developers.",
+    "products": {
+      "title": "Explore",
+      "components": "Components",
+      "templates": "3D web templates",
+      "docs": "Docs",
+      "saved": "Saved Components"
+    },
+    "company": {
+      "title": "Platform",
+      "profile": "Profile",
+      "settings": "Settings",
+      "customRequest": "Custom 3D Request",
+      "admin": "Admin"
+    },
+    "legal": {
+      "title": "Community",
+      "github": "GitHub",
+      "license": "MIT License",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "copyright": "© 2026 XUI. All rights reserved."
+  },
+  "laser": {
+    "scrollHint": "Scroll to fire laser",
+    "statusCharging": "SYSTEM CHARGING // FOCUSING OPTICS",
+    "statusActive": "HIGH-ENERGY LASER CORE // 100% DISCHARGE",
+    "card1Badge": "PERFORMANCE",
+    "card1Title": "Direct Canvas Pipeline",
+    "card1Desc": "High-throughput GPU acceleration with zero layout reflows.",
+    "card2Badge": "INTELLIGENCE",
+    "card2Title": "Kinetic Gaze Tracking",
+    "card2Desc": "Precision coordinate mapping with continuous adaptive lerping.",
+    "headline": "RAW SPEED. PURE PRECISION.",
+    "subheadline": "Unleash next-generation motion interfaces for web applications.",
+    "tag1": "120 FPS Native",
+    "tag2": "Zero Dependencies",
+    "tag3": "Fluid Kinetics"
+  },
+  "websites3D": {
+    "title": "Looking for a 3D Website?",
+    "showTemplates": "Show Templates",
+    "customRequest": "Custom Request"
+  },
+  "auth": {
+    "titleSignIn": "Welcome Back",
+    "titleSignUp": "Create Account",
+    "subtitleSignIn": "Continue crafting next-gen interfaces with XUI",
+    "subtitleSignUp": "Join the elite community of creative developers",
+    "continueWithGoogle": "Continue with Google",
+    "continueWithGithub": "Continue with GitHub",
+    "or": "or with email",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "John Doe",
+    "email": "Email Address",
+    "emailPlaceholder": "name@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "forgotPassword": "Forgot password?",
+    "signInBtn": "Sign In",
+    "signUpBtn": "Create Account",
+    "loading": "Loading...",
+    "noAccount": "Don't have an account?",
+    "createOne": "Create one now",
+    "hasAccount": "Already have an account?",
+    "signInHere": "Sign in here",
+    "successSignUp": "Account created successfully! Check your inbox if confirmation is required.",
+    "errorGeneral": "An error occurred. Please try again.",
+    "userMenu": {
+      "profile": "Profile",
+      "settings": "Settings",
+      "docs": "Docs",
+      "myFavorites": "Saved Items",
+      "report": "Report & Feedback",
+      "admin": "Admin Dashboard",
+      "signOut": "Sign Out",
+      "account": "Account"
+    }
+  },
+  "share": {
+    "title": "Share Component",
+    "subtitle": "Share this kinetic component with your team or community",
+    "copyLink": "Component Link",
+    "copyBtn": "Copy Link",
+    "copied": "Copied!",
+    "socials": "Or share directly via:",
+    "nativeShare": "More options on your device..."
+  },
+  "profile": {
+    "badge": "Account",
+    "title": "Developer Profile",
+    "subtitle": "Manage your personal developer identity and account preferences.",
+    "backHome": "Back to Home",
+    "memberSince": "Member since",
+    "signOut": "Sign Out",
+    "signInTitle": "Sign in to view Profile",
+    "signInDesc": "Please sign in to access your personal developer dashboard and saved components.",
+    "signInBtn": "Sign In Now",
+    "sectionsTitle": "Account Details",
+    "avatarCard": {
+      "title": "Profile Avatar",
+      "desc": "Geometric cyber identicon or custom cropped profile picture",
+      "customActive": "Custom Photo Active",
+      "identiconActive": "XUI Geometric Identicon",
+      "action": "Customize"
+    },
+    "nameCard": {
+      "title": "Display Name",
+      "desc": "Your public identity across XUI components and templates",
+      "lockedBadge": "Cooldown active: {time} left",
+      "readyBadge": "Available to edit (7-day cooldown applies)",
+      "action": "Edit Name"
+    },
+    "emailCard": {
+      "title": "Email Address",
+      "desc": "Primary account identifier. Fixed and non-modifiable for account security.",
+      "fixedBadge": "Locked / Primary Identity",
+      "readOnly": "Read-Only"
+    },
+    "avatarModal": {
+      "title": "Customize Profile Avatar",
+      "subtitle": "Personalize your cyber geometric identicon or upload your own photo.",
+      "tabIdenticon": "Geometric Identicon",
+      "tabUpload": "Upload & Crop Photo",
+      "choosePalette": "Choose Cyber Color Palette",
+      "currentPalette": "Current Palette",
+      "savePaletteBtn": "Save Identicon",
+      "saving": "Saving...",
+      "dropzoneText": "Click or drag an image here to upload",
+      "dropzoneHint": "Supported formats: PNG, JPG, JPEG, WEBP (Max 5MB)",
+      "cropTitle": "Adjust & Crop Photo",
+      "cropHint": "Drag to position, use the slider to zoom",
+      "zoom": "Zoom",
+      "changeImageBtn": "Change Image",
+      "cropAndSaveBtn": "Crop & Save Avatar",
+      "uploading": "Uploading & Saving...",
+      "revertToIdenticon": "Reset to Geometric Identicon",
+      "uploadError": "Failed to upload avatar image. Please try again.",
+      "close": "Close"
+    },
+    "nameModal": {
+      "title": "Edit Display Name",
+      "subtitle": "Update your publicly visible developer name.",
+      "inputLabel": "New Display Name",
+      "inputPlaceholder": "Enter your full name",
+      "cooldownWarning": "Important: You can only change your name once every 7 days. Choose carefully.",
+      "lockedTitle": "Name Change Locked",
+      "lockedNotice": "You recently changed your display name. Names can only be changed once every 7 days.",
+      "lockedTimeLeft": "Cooldown expires in: {time}",
+      "minCharError": "Name must be at least 2 characters.",
+      "maxCharError": "Name cannot exceed 50 characters.",
+      "cancelBtn": "Cancel",
+      "saveBtn": "Save Name",
+      "saving": "Saving...",
+      "close": "Close"
+    }
+  },
+  "settings": {
+    "title": "Platform Settings",
+    "subtitle": "Manage your preferences, security, and account settings.",
+    "backHome": "Back to Home",
+    "profileCard": {
+      "title": "Profile",
+      "action": "View"
+    },
+    "privacyCard": {
+      "title": "Privacy & Security",
+      "action": "Manage"
+    },
+    "languageCard": {
+      "title": "Language",
+      "action": "English"
+    },
+    "supportCard": {
+      "title": "Support",
+      "action": "Contact"
+    },
+    "privacyModal": {
+      "title": "Privacy & Security",
+      "subtitle": "Review your active security configurations and session details.",
+      "sessionTitle": "Authentication Session",
+      "signedInAs": "Signed in as",
+      "guest": "Not signed in",
+      "signInNotice": "Sign in to manage active authentication sessions and credentials.",
+      "signInBtn": "Sign In Now",
+      "securityStatus": "Security & Encryption",
+      "securityDesc": "End-to-end TLS 1.3 encryption with Supabase JWT authentication.",
+      "activeSession": "Active & Encrypted",
+      "signOutBtn": "Sign Out Session",
+      "close": "Close"
+    },
+    "languageModal": {
+      "title": "Interface Language",
+      "subtitle": "Select your preferred language for the XUI platform.",
+      "english": "English (US)",
+      "englishDesc": "Default system language",
+      "arabic": "العربية (Arabic)",
+      "arabicDesc": "Full RTL interface support",
+      "active": "Active",
+      "close": "Close"
+    },
+    "supportModal": {
+      "title": "Help & Support",
+      "subtitle": "Need assistance, have feedback, or found a bug? We are here to help.",
+      "emailTitle": "Direct Support Email",
+      "emailAddress": "support@xui.dev",
+      "sendEmail": "Send Email",
+      "copyEmail": "Copy Email",
+      "copied": "Copied!",
+      "docsTitle": "Documentation & Guides",
+      "docsDesc": "Explore API references and kinetic component integration tutorials.",
+      "openDocs": "Browse Docs",
+      "close": "Close"
+    }
+  }
+}
+

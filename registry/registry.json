@@ -1,0 +1,206 @@
+{
+  "name": "xui",
+  "homepage": "https://xui.dev",
+  "repository": "https://github.com/xui-dev/XUI-components-",
+  "version": "1.0.0",
+  "items": [
+    {
+      "name": "two-sided-card",
+      "title": "Two-sided card",
+      "description": "Interactive 3D flip card with smooth animations.",
+      "category": "cards",
+      "categoryLabel": "cards",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "styled-components"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "two-sided-card.tsx",
+          "path": "registry/components/two-sided-card/index.tsx",
+          "target": "components/xui/two-sided-card.tsx"
+        },
+        {
+          "name": "two-sided-card.jsx",
+          "path": "registry/components/two-sided-card/index.jsx",
+          "target": "components/xui/two-sided-card.jsx"
+        }
+      ]
+    },
+    {
+      "name": "layercheckbox",
+      "title": "LayerCheckbox",
+      "description": "",
+      "category": "checkboxes",
+      "categoryLabel": "Checkboxes",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "layercheckbox.tsx",
+          "path": "registry/components/layercheckbox/index.tsx",
+          "target": "components/xui/layercheckbox.tsx"
+        },
+        {
+          "name": "layercheckbox.jsx",
+          "path": "registry/components/layercheckbox/index.jsx",
+          "target": "components/xui/layercheckbox.jsx"
+        }
+      ]
+    },
+    {
+      "name": "orbitcheckbox",
+      "title": "OrbitCheckbox",
+      "description": "",
+      "category": "checkboxes",
+      "categoryLabel": "Checkboxes",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "orbitcheckbox.tsx",
+          "path": "registry/components/orbitcheckbox/index.tsx",
+          "target": "components/xui/orbitcheckbox.tsx"
+        },
+        {
+          "name": "orbitcheckbox.jsx",
+          "path": "registry/components/orbitcheckbox/index.jsx",
+          "target": "components/xui/orbitcheckbox.jsx"
+        }
+      ]
+    },
+    {
+      "name": "targetcheckbox",
+      "title": "TargetCheckbox",
+      "description": "",
+      "category": "checkboxes",
+      "categoryLabel": "Checkboxes",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "targetcheckbox.tsx",
+          "path": "registry/components/targetcheckbox/index.tsx",
+          "target": "components/xui/targetcheckbox.tsx"
+        },
+        {
+          "name": "targetcheckbox.jsx",
+          "path": "registry/components/targetcheckbox/index.jsx",
+          "target": "components/xui/targetcheckbox.jsx"
+        }
+      ]
+    },
+    {
+      "name": "terminalcheckbox",
+      "title": "TerminalCheckbox",
+      "description": "",
+      "category": "checkboxes",
+      "categoryLabel": "Checkboxes",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "terminalcheckbox.tsx",
+          "path": "registry/components/terminalcheckbox/index.tsx",
+          "target": "components/xui/terminalcheckbox.tsx"
+        },
+        {
+          "name": "terminalcheckbox.jsx",
+          "path": "registry/components/terminalcheckbox/index.jsx",
+          "target": "components/xui/terminalcheckbox.jsx"
+        }
+      ]
+    },
+    {
+      "name": "dialtoggle",
+      "title": "DialToggle",
+      "description": "",
+      "category": "toggle-switches",
+      "categoryLabel": "Toggle switches",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "dialtoggle.tsx",
+          "path": "registry/components/dialtoggle/index.tsx",
+          "target": "components/xui/dialtoggle.tsx"
+        },
+        {
+          "name": "dialtoggle.jsx",
+          "path": "registry/components/dialtoggle/index.jsx",
+          "target": "components/xui/dialtoggle.jsx"
+        }
+      ]
+    },
+    {
+      "name": "matrix-toggle",
+      "title": "Matrix Toggle",
+      "description": "",
+      "category": "toggle-switches",
+      "categoryLabel": "Toggle switches",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "matrix-toggle.tsx",
+          "path": "registry/components/matrix-toggle/index.tsx",
+          "target": "components/xui/matrix-toggle.tsx"
+        },
+        {
+          "name": "matrix-toggle.jsx",
+          "path": "registry/components/matrix-toggle/index.jsx",
+          "target": "components/xui/matrix-toggle.jsx"
+        }
+      ]
+    },
+    {
+      "name": "neumorphism-login-form",
+      "title": "Neumorphism Login Form",
+      "description": "",
+      "category": "forms",
+      "categoryLabel": "Forms",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "neumorphism-login-form.tsx",
+          "path": "registry/components/neumorphism-login-form/index.tsx",
+          "target": "components/xui/neumorphism-login-form.tsx"
+        },
+        {
+          "name": "neumorphism-login-form.jsx",
+          "path": "registry/components/neumorphism-login-form/index.jsx",
+          "target": "components/xui/neumorphism-login-form.jsx"
+        }
+      ]
+    }
+  ]
+}

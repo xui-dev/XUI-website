@@ -1,0 +1,19 @@
+{
+  "name": "xui",
+  "version": "1.0.0",
+  "description": "Official CLI for installing XUI kinetic components directly into your project",
+  "bin": {
+    "xui": "./bin/xui.js"
+  },
+  "type": "module",
+  "keywords": [
+    "xui",
+    "components",
+    "ui",
+    "react",
+    "tailwind",
+    "cli"
+  ],
+  "author": "XUI Team",
+  "license": "MIT"
+}
